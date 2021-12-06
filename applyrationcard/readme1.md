@@ -3,11 +3,11 @@ Tamil Nadu chief minister M.K. Stalin has announced that Rs. 1000 will be given 
 Benefits of Ration card:
 This ration card can be used as ID proof & address proof to apply various applications like new gas connection, passport, driving license,  marriage certificate, most of the government related stuffs, etc.
 These card holders are eligible to collect the food essentials every month at subsidized cost.
-Here is the step by step procedure to apply for new ration card – English version
+Here is the step by step procedure to apply for new ration card â€“ English version
 Before filling the application keep ready the following  mandatory documents to upload to avoid timeout error
 1.	Passport size photo of Family Head (png, gif, jpeg, jpg files accepted under 5.0 MB size)
 2.	Aadhaar Card of all family members that to be included in this ration card
-3.	Gas bill (Gas connection should be in Family Head’s name)
+3.	Gas bill (Gas connection should be in Family Headâ€™s name)
 4.	Proof of Resident documents: 
 (Note: Gas consumer card, Electricity bill or property tax receipt ONLY will be accepted mostly remaining all documents may get rejected stating separate residential proof required. Public distribution department is doing this to avoid duplication)
 a.	Aadhaar Card
@@ -31,8 +31,8 @@ Step 2: Select language as English.
 Step 3: Click Apply new smart card.
 ![2](https://user-images.githubusercontent.com/95475055/144744829-9877f4bb-5d40-420d-b09a-92a34181ff04.PNG)
 Step 4:
-Select New Smart Card Application & fill the details like Family Head’s name, Father’s/ Husband’s name, Address, pin code, District, Taluk, Village, Mobile number, email ID etc.,
-Even though you’ve selected the language as English, still you’ve fill the below details in both English & Tamil. Ensure you’re typing details in correct spelling as per the documents & upload the passport size photo of family head.
+Select New Smart Card Application & fill the details like Family Headâ€™s name, Fatherâ€™s/ Husbandâ€™s name, Address, pin code, District, Taluk, Village, Mobile number, email ID etc.,
+Even though youâ€™ve selected the language as English, still youâ€™ve fill the below details in both English & Tamil. Ensure youâ€™re typing details in correct spelling as per the documents & upload the passport size photo of family head.
 ![3](https://user-images.githubusercontent.com/95475055/144744911-0b24769c-e0df-46c7-a62d-beed6efa7951.png)
 ![4](https://user-images.githubusercontent.com/95475055/144745355-5abb7825-1179-4f81-a70a-170e1d305b57.png)
 Step 5:
@@ -44,10 +44,10 @@ Fill family member details like Name, Date of birth, Gender, Nationality, Relati
 Repeat this step 6 for adding all the family members.
 Step 7:
 Select Card option:
-a.	No commodity card – no ration items be purchased in ration shop like rice, sugar. You can select this option if you do not want to buy anything from ration shop& want to use this ration card only for ID / Address proof & for other documentation related matters. Of course you may change this to rice or sugar card in future by submitting a request online.
-b.	Rice Card – You’ll get rice, wheat, oil, daal, sugar, etc, with this card. Ration shop keeper will inform you what are the essentials you can get as per the stock availability
-c.	Sugar Card – You’ll get only Sugar.
-d.	Others – is for government officials of Police, Prison, Forest departments.
+a.	No commodity card â€“ no ration items be purchased in ration shop like rice, sugar. You can select this option if you do not want to buy anything from ration shop& want to use this ration card only for ID / Address proof & for other documentation related matters. Of course you may change this to rice or sugar card in future by submitting a request online.
+b.	Rice Card â€“ Youâ€™ll get rice, wheat, oil, daal, sugar, etc, with this card. Ration shop keeper will inform you what are the essentials you can get as per the stock availability
+c.	Sugar Card â€“ Youâ€™ll get only Sugar.
+d.	Others â€“ is for government officials of Police, Prison, Forest departments.
 ![7](https://user-images.githubusercontent.com/95475055/144745465-36e99958-e90d-409b-97ae-2faeaae89038.png)
 
 Step 8:
@@ -56,13 +56,13 @@ Select Proof of residence (Gas consumer card, Electricity bill or property tax r
 
 Step 9:
 Select Details of Gas connection & fill the details of:
- Name of the person to whom the link is registered * (Gas connection should be in Family Head’s name), Oil Company name, LPG Consumer Number, Gas Agency Name & No. of cylinders.
+ Name of the person to whom the link is registered * (Gas connection should be in Family Headâ€™s name), Oil Company name, LPG Consumer Number, Gas Agency Name & No. of cylinders.
 ![9](https://user-images.githubusercontent.com/95475055/144745523-ac498cf1-b5e8-431e-b259-3d5cd1dc26e4.png)
 
 Final Step:
 Ensure all the details are entered correctly, select Confirmation & click Register.
 ![10](https://user-images.githubusercontent.com/95475055/144745554-1ec1c06c-604c-4a5b-b04b-48f9eeb9a98c.png)
-You’ll receive confirmation SMS with application reference number to your registered mobile number.
+Youâ€™ll receive confirmation SMS with application reference number to your registered mobile number.
 
 Sample SMS:
 ![11](https://user-images.githubusercontent.com/95475055/144745713-cf058c53-3dbb-4b53-94d4-c6c3b7b55f12.png)
@@ -77,6 +77,6 @@ Enter your application reference number received in your SMS & click submit.
 
 Your application will undergo 3 steps of approval, Document verification, Field Verification & finally TSO approval.
 The 3 stages of approval  time approximately takes 1-2 weeks & the smart card will be printed within next 2 weeks. This will be notified via SMS & you or your family member will have to collect it from Taluk office.
-Alternatively you can check the status by calling helpdesk number 1967 or 1800 425 5901 or you can contact Taluk Supply Officer’s (TSO) mobile number.
+Alternatively you can check the status by calling helpdesk number 1967 or 1800 425 5901 or you can contact Taluk Supply Officerâ€™s (TSO) mobile number.
 You can find regional TSO contact number & address in below link:
 [https://tnpds.gov.in/pages/staticPages/contact-us.xhtml](https://tnpds.gov.in/pages/staticPages/contact-us.xhtml){:target="_blank" rel="noopener"}
